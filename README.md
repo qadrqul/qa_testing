@@ -12,8 +12,8 @@ This project contains an automated test suite for the Navigation System web appl
 ## Configuration
 ### The following environment variables must be set to run the test suite:
 * APP_URL: [Navigator](http://167.114.201.175:5000/)
-* USERNAME: Admin
-* PASSWORD: Admin@Navi
+* USERNAME: _____
+* PASSWORD: __________
 
 ## Test Structure
 The test suite is organized into multiple test files, each of which contains a suite of related tests. The tests are written using Playwright's API for interacting with web pages, and they cover a variety of scenarios related to the Navigation System web application.
